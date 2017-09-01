@@ -10,7 +10,7 @@ ARCHANGEL is a 18 month socio-technical feasibility study co-creating and evalua
 
 # Project Partners
 
-To undertake this adventurous and ambitious project we have formed a strategic multi-disciplinary partnership uniting a [world-leading group in multi-modal signal processing](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) (CVSSP), the [Centre for the Digital Economy](https://surreycode.org/) (CODE) within Surrey Business School, and a consortium of AMI stakeholders including [https://www.nationalarchives.gov.uk/] and Tim Berners-Lee's [Open Data Institute](https://theodi.org/) (ODI).
+To undertake this adventurous and ambitious project we have formed a strategic multi-disciplinary partnership uniting a [world-leading group in multi-modal signal processing](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) (CVSSP), the [Centre for the Digital Economy](https://surreycode.org/) (CODE) within Surrey Business School, and a consortium of AMI stakeholders including [The National Archives](https://www.nationalarchives.gov.uk/) and the [Open Data Institute](https://theodi.org/) (ODI).
 
 
 # Why this matters
