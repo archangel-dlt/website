@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "github-pages"
-
-group :test do
-  gem "jekyll-test"
-end
+gem "ed."
+# group :test do
+#   gem "jekyll-test"
+# end
