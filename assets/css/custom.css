@@ -28,3 +28,30 @@ nav a.active {
     cursor: default;
     color: #000;
 }
+
+div.profile img, div.profile div {
+    float: left;
+}
+
+div.profile img {
+    max-width: 100px;
+    margin-right: 10px;
+}
+
+div.profile:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+section.publication p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+section.publication p, section.publication a{
+    margin: 0;
+    font-size: 15px;
+    line-height: 15px;
+}

@@ -1,0 +1,49 @@
+- name: Principal Investigator
+  people:
+  - image: johncollomosse.png
+    name: Prof. John Collomosse  
+    position: CVSSP/FEPS, University of Surrey
+
+- name: Co-Investigators
+  people:
+  - image: alanbrown.png
+    name: Prof. Alan Brown  
+    position: Centre for Digital Economy, CODE/FASS, University of Surrey
+
+  - image: johnsheridan.png
+    name: John Sheridan  
+    position: Digital Director, The National Archives
+
+  - image: noname.png
+    name: Jeni Tennison  
+    position: CEO, Open Data Institute (ODI)
+
+- name: Researchers
+  people:
+  - image: tubui.png
+    name: Dr. Tu Bui  
+    position: Research Fellow, CVSSP, University of Surrey
+
+  - image: danielcooper.png
+    name: Daniel Cooper  
+    position: Research Software Developer, CVSSP, University of Surrey
+
+  - image: noname.png
+    name: Alex Green  
+    position: Digital Archivist, The National Archives
+
+  - image: noname.png
+    name: Mark Bell  
+    position: Researcher, The National Archives
+
+  - image: noname.png
+    name: Olivier Thereaux  
+    position: Research Team Lead, ODI
+
+  - image: noname.png
+    name: Jamie Fawcett  
+    position: Project Manager, ODI
+
+  - image: noname.png
+    name: Jez Higgins  
+    position: Consultant Software Engineer, ODI
