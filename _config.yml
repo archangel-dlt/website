@@ -11,6 +11,6 @@ github_username:  archangel-dlt
 
 # Build settings
 markdown: kramdown
-theme: "ed."
+# theme: "ed."
 plugins:
   - jekyll-feed
