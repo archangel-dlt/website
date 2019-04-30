@@ -1,0 +1,62 @@
+.masthead-title {
+    text-align: center;
+
+    img {
+        display:inline;
+    }
+}
+
+ul.posts {
+    list-style: none;
+    padding-left: 0;
+}
+
+.masthead {
+    margin: 0;
+}
+
+nav{
+    &.header { 
+        border-bottom: solid 1px #eee;
+        text-align: center;
+    }
+
+    a {
+        margin: 20px;
+    }
+    a.active {
+        pointer-events: none;
+        cursor: default;
+        color: #000;
+    }
+}
+
+div.profile {
+    img, div {
+        float: left;
+    }
+
+    img {
+        max-width: 100px;
+        margin-right: 10px;
+    }
+
+    &:after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+}
+
+section.collection {
+    div.publication {
+        label, p, a{
+            margin: 0;
+            font-size: 15px;
+            line-height: 15px;
+        }
+        label {
+            font-weight: bold;
+        }
+    }
+}

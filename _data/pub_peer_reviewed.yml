@@ -1,0 +1,16 @@
+- title: "ARCHANGEL: Trusted Archives of Digital Public Documents"
+  doi: "10.1145/3209280.3229120"
+  url: "https://arxiv.org/pdf/1804.08342"
+  publication: "Proceedings ACM Document Engineering 2018"
+  authors: "J. Collomosse, T. Bui, A. Brown, J. Sheridan, A. Green, M. Bell, J. Fawcett, J. Higgins, O. Thereaux"
+
+- title: "ARCHANGEL: Tamper-proofing Video Archives using Temporal Content Hashes on the Blockchain"
+  publication: "Proceedings IEEE CVPR Workshop on Computer Vision AI and Blockchain"
+  authors: "T. Bui, D. Cooper, J. Collomosse, M. Bell, A. Green, J. Sheridan, J. Higgins, A. Das, J. Keller, O. Thereaux, A. Brown"
+  url: "http://personal.ee.surrey.ac.uk/Personal/J.Collomosse/pubs/Bui-CVPRWS-2019.pdf"
+
+- title: "Using blockchain to engender trust in public digital archives"
+  publication: "Proceedings iPRES 2018"
+  authors: "Mark Bell, John Sheridan, John Collomosse, Tu Bui, Alan Brown, Jamie Fawcett, Olivier Thereaux, Jeni Tennison"
+  doi: "10.17605/OSF.IO/KEFJ8"
+  url: "https://osf.io/rbyzu/download"
