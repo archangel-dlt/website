@@ -1,10 +1,10 @@
-title: Archangel
-email: info@archangel.ac.uk
-description: Distributed ledgers to enhance trust in public archives
-tagline: Distributed ledgers to enhance trust in public archives
+title: EPSRC ARCHANGEL Project
+email: j.collomosse@surrey.ac.uk
+description: Securing our National Archives for Future Generations
+tagline: Securing our National Archives for Future Generations
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.archangel.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # twitter_username: jekyllrb
 github_username:  archangel-dlt
