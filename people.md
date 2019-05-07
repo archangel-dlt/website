@@ -13,6 +13,7 @@ permalink: /people/
       <div>
         <h4>{{person.name}}</h4>
         <p>{{person.position}}</p>
+        <p>{{person.bio}}</p>
       </div>
     </div>
     {% endfor %}
