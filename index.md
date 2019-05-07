@@ -10,7 +10,7 @@ Archives are the lens through which future generations will see the events of to
 
 ARCHANGEL responds to the urgent need of safeguarding archives in a rapidly changing, digital world.  Whilst people often consider digital records safer than hard copies, digital data is much more fragile and at risk. Digital data is intangible leaving it open to tampering, and as digital formats constantly evolve and content needs updating, there is a risk that files may be accidentally corrupted. 
 
-ARCHANGEL creates assurances of digital record integrity using distributed ledger technology (Blockchain). Blockchain is best known as the technology underpinning Bitcoin – a digital currency used by millions online. But Blockchain has other uses beyond the financial sphere. ARCHANGEL proposes Blockchain as a way of safeguarding data against tampering and restoring trust in the digital record.  Blockchain works as a database that multiple parties maintain.  Everyone can check and add to it, but no one can change it.  ARCHANGEL are combining Blockchain technology with neural networks trained to fingerprint documents as they are received in the archive.  Fingerprints are immutably stored in the blockchain, and when the document is released the fingerprint can be verified; it will stay the same no matter what format changes occur to the file over time.
+ARCHANGEL creates assurances of digital record integrity using distributed ledger technology (Blockchain). Blockchain is best known as the technology underpinning Bitcoin – a digital currency used by millions online. But Blockchain has other uses beyond the financial sphere. ARCHANGEL proposes Blockchain as a way of safeguarding data against tampering and restoring trust in the digital record.  Blockchain works as a database that multiple parties maintain.  Everyone can check and add to it, but no one can change it.  ARCHANGEL is combining Blockchain technology with neural networks trained to fingerprint documents as they are received in the archive.  Fingerprints are immutably stored in the blockchain, and when the document is released the fingerprint can be verified; it will stay the same no matter what format changes occur to the file over time.
 
 <img src="{{ site.baseurl }}assets/images/na3.jpg" alt="Physical records in the archives">
 
@@ -18,6 +18,7 @@ So why Blockchain? Why not a centralized database of such fingerprints, managed 
 
 Using ARCHANGEL technology,  archives hash and register digital fingerprints of documents into a permissioned Blockchain, maintained collaboratively across many participating archives - even across international borders. Documents can be verified against the original signature at any time, including at release, to ensure the record’s integrity. Archives around the world will be able to protect each other, checking for accidental and deliberate corruption of data. ARCHANGEL will ensure that archives can be trusted forever, not just for study and reference, but for matters as serious as legal cases, official investigations and for holding organisations and governments accountable.
 
-<hr/>
-ARCHANGEL is funded via the UKRI/EPSRC Digital Economy Programme. 
 If you are interested and would like to read more, check out the <a href="/news">project news</a>
+
+<hr/>
+ARCHANGEL is funded via the <a href="https://epsrc.ukri.org/research/ourportfolio/themes/digitaleconomy/">UKRI/EPSRC Digital Economy Programme</a> under grant reference <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/P03151X/1">EP/P03151X/1</a>.
