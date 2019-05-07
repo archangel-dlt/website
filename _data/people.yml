@@ -3,6 +3,7 @@
   - image: johncollomosse.png
     name: John Collomosse  
     position: Professor, CVSSP University of Surrey.
+    bio: John is the principal investigator on ARCHANGEL and leads the <a href=”http://blockchain.surrey.ac.uk”>Surrey Blockchain testbed</a>, comprising over 4 million in UKRI funded research projects exploring the fusion of AI and Distributed Ledger Technology including <a href=”https://blockchain.surrey.ac.uk/projects/tapestry.html”>TAPESTRY</a>, <a href=“ https://blockchain.surrey.ac.uk/projects/comehere.html”>CoMEHeRe</a> and the European funded <a href=” https://www.surrey.ac.uk/news/university-surrey-kicks-eu5million-europe-wide-testbed-blockchain”>Blockstart</a> project.
 
   - image: johnsheridan.png
     name: John Sheridan  
@@ -12,20 +13,24 @@
   - image: olivierthereaux.jpg
     name: Olivier Thereaux  
     position: Research Team Lead, Open Data Institute (ODI)
+    bio: As Head of Technology, Olivier leads the ODI’s work researching emerging tech, prototyping tools and services, and exploring the interplay of technology and policy. Over the past two decades he has been working on the various facets of open technology: open standards, open source, open data and open innovation.
 
   - image: alanbrown.png
     name: Alan Brown  
     position: Professor, INDEX University of Exeter
+    bio: Alan is Executive Director of INDEX where he leads activities in the area of corporate entrepreneurship and open innovation models, focusing on innovation in a number of practical research areas concerning global enterprise software delivery, agile software supply chains, and the investigation of "open commercial" software delivery models. 
 
 - name: Researchers
   people:
   - image: tubui.png
     name: Dr. Tu Bui  
     position: Research Fellow, CVSSP, University of Surrey
+    bio: Tu is a Research Fellow at the Surrey Centre for Vision Speech and Signal Processing (CVSSP). Within the ARCHANGEL project, he works on digital video hashing algorithm which is immutable to transcoding of the original video. This aims to allow video content to be verified across different formats, and detect any tampering or malicious edits. 
 
   - image: danielcooper.png
     name: Daniel Cooper  
     position: Research Software Developer, CVSSP, University of Surrey
+    bio: Daniel is a Research Software Developer at the Surrey Centre for Vision Speech and Signal Processing (CVSSP). Working across the DLT projects, he manages the DLT testbed infrastructure, as well as the design and development of software, integrating AI technologies with DLT. As a full-stack developer he has experience developing and managing applications across varying technology stacks.
 
   - image: noname.png
     name: Jez Higgins  
