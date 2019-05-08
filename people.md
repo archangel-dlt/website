@@ -10,11 +10,9 @@ permalink: /people/
     {% for person in group.people %}
     <div class="profile">
       <img src="{{ site.baseurl }}/assets/images/people/{{person.image}}" />
-      <div>
-        <h4>{{person.name}}</h4>
-        <p>{{person.position}}</p>
-        <p>{{person.bio}}</p>
-      </div>
+      <h4>{{person.name}}</h4>
+      <p class="position">{{person.position}}</p>
+      <p class="bio">{{person.bio}}</p>
     </div>
     {% endfor %}
   </section>

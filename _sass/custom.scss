@@ -32,19 +32,29 @@ nav{
 }
 
 div.profile {
-    img, div {
-        float: left;
-    }
+    text-align: justify;
 
     img {
         max-width: 100px;
         margin-right: 10px;
+        float: left;
     }
-
+    h4 {
+        margin-bottom: 0px;
+    }
     &:after {
         content: '';
         display: table;
         clear: both;
+    }
+    p.position{
+        font-size: 18px;
+        margin-bottom: 0;
+        font-style: italic;
+        
+    }
+    p.bio {
+        font-size: 16px;
     }
 }
 
