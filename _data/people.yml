@@ -23,7 +23,7 @@
 - name: Researchers
   people:
   - image: tubui.png
-    name: Dr. Tu Bui  
+    name: Tu Bui  
     position: Research Fellow, CVSSP, University of Surrey
     bio: 'Tu is a Research Fellow at the Surrey Centre for Vision Speech and Signal Processing (CVSSP). Within the ARCHANGEL project, he works on digital video hashing algorithm which is immutable to transcoding of the original video. This aims to allow video content to be verified across different formats, and detect any tampering or malicious edits.'
 
@@ -36,12 +36,12 @@
     name: Jez Higgins  
     position: Consultant Software Engineer, ODI
 
-  - image: noname.png
+  - image: alexgreen.jpg
     name: Alex Green  
     position: Senior Digital Archivist, The National Archives
     bio: Alex leads a small team of researchers exploring challenges in digital preservation and is the Product Owner of The National Archives’ digital archive. On the ARCHANGEL project, she provides input on archival processes and principles.
 
-  - image: markbell.png
+  - image: markbell.jpg
     name: Mark Bell  
     position: Researcher, The National Archives
     bio: Mark is a member of the research team The National Archives. Mark started his career working on the AHRC funded 'Traces through Time' project, for probabilistically linking biographical records. His current research interests include machine learning, blockchain, and uncertainty. 
