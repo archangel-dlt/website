@@ -38,11 +38,13 @@
 
   - image: noname.png
     name: Alex Green  
-    position: Digital Archivist, The National Archives
+    position: Senior Digital Archivist, The National Archives
+    bio: Alex leads a small team of researchers exploring challenges in digital preservation and is the Product Owner of The National Archives’ digital archive. On the ARCHANGEL project, she provides input on archival processes and principles.
 
-  - image: noname.png
+  - image: markbell.png
     name: Mark Bell  
     position: Researcher, The National Archives
+    bio: Mark is a member of the research team The National Archives. Mark started his career working on the AHRC funded 'Traces through Time' project, for probabilistically linking biographical records. His current research interests include machine learning, blockchain, and uncertainty. 
 
   - image: noname.png
     name: Jared Keller  
