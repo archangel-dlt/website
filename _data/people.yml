@@ -46,9 +46,10 @@
     position: Researcher, The National Archives
     bio: Mark is a member of the research team The National Archives. Mark started his career working on the AHRC funded 'Traces through Time' project, for probabilistically linking biographical records. His current research interests include machine learning, blockchain, and uncertainty. 
 
-  - image: noname.png
-    name: Jared Keller  
-    position: Project Manager, ODI
+  - image: jaredrobertkeller.png
+    name: Jared Robert Keller  
+    position: Emerging Technology Researcher, ODI
+    bio: Jared is an Emerging Technology Researcher at the ODI. As part of the R&D department, he conducts both qualitative and quantitative research across a wide range of issues related to open data, and supports the ODI’s efforts to map complex technological, business, and regulatory landscapes. He specialises in emerging technologies and their implementation in, and impact on, commercial, public sector, and social contexts.
 
   - image: noname.png
     name: Arindra Das 
