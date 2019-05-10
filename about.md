@@ -6,7 +6,7 @@ permalink: /about/
 
 # What is ARCHANGEL
 
-ARCHANGEL is a 18 month socio-technical feasibility study co-creating and evaluating a novel prototype DLT service with end-users to determine how archival practices, sustainable models and public attitudes could evolve in the presence of a trusted decentralised technology to prove content integrity and ensure open access to digital public archives.
+ARCHANGEL is a 24 month socio-technical feasibility study co-creating and evaluating a novel prototype DLT service with end-users to determine how archival practices, sustainable models and public attitudes could evolve in the presence of a trusted decentralised technology to prove content integrity and ensure open access to digital public archives.
 
 # Project Partners
 
