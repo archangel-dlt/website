@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 <section class="collection">
-  <h2 class="underline">Peer-reviewed Publications</h2>
+  <h2 class="underline">Selected Publications</h2>
   {% for pub in site.data.pub_peer_reviewed %}
     <div class="publication">
       <h4>{{pub.title}}</h4>
