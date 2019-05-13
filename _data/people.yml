@@ -32,9 +32,10 @@
     position: Research Software Developer, CVSSP, University of Surrey
     bio: 'Daniel is a Research Software Developer at the Surrey Centre for Vision Speech and Signal Processing (CVSSP). Working across the DLT projects, he manages the DLT testbed infrastructure, as well as the design and development of software, integrating AI technologies with DLT. As a full-stack developer he has experience developing and managing applications across varying technology stacks.'
 
-  - image: noname.png
+  - image: jezhiggins.jpg
     name: Jez Higgins  
     position: Consultant Software Engineer, ODI
+    bio: Jez is an ODI Technical Associate. For the ARCHANGEL project, he worked with CVSSP and TNA colleagues to develop various proof-of-concept web, desktop, and blockchain applications.
 
   - image: alexgreen.jpg
     name: Alex Green  
@@ -51,7 +52,8 @@
     position: Emerging Technology Researcher, ODI
     bio: Jared is an Emerging Technology Researcher at the ODI. As part of the R&D department, he conducts both qualitative and quantitative research across a wide range of issues related to open data, and supports the ODI’s efforts to map complex technological, business, and regulatory landscapes. He specialises in emerging technologies and their implementation in, and impact on, commercial, public sector, and social contexts.
 
-  - image: noname.png
+  - image: arindradas.jpg
     name: Arindra Das 
-    position: Human Factors Researcher, ODI
+    position: Senior UX Researcher, ODI
+    bio: Arindra is a Senior User Experience Researcher and Product Designer. As part of ARCHANGEL, he is conducting studies with various national and international partners to analyse and find insights on the viability, feasibility and desirability of the concept, and evaluating the usability of the prototype.
 
