@@ -4,9 +4,9 @@ title: Archangel
 permalink: /
 ---
 # ARCHANGEL - Trusted Archives of Digital Public Records
-Archives are the lens through which future generations will see the events of today. Working with The National Archives and Tim Berners-Lee’s Open Data Institute (ODI), the University of Surrey is fusing AI and Blockchain technologies to help safeguard the integrity and future sustainability of our digital public archives.
+Archives are the lens through which future generations will see the events of today. Working with The National Archives and the Open Data Institute (ODI), the University of Surrey is fusing AI and Blockchain technologies to help safeguard the integrity and future sustainability of our digital public archives.
 
-<iframe width="960" height="565" src="https://www.youtube.com/embed/xKCdKo6rQXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="470" src="https://www.youtube.com/embed/xKCdKo6rQXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ARCHANGEL responds to the urgent need of safeguarding archives in a rapidly changing, digital world.  Whilst people often consider digital records safer than hard copies, digital data is much more fragile and at risk. Digital data is intangible leaving it open to tampering, and as digital formats constantly evolve and content needs updating, there is a risk that files may be accidentally corrupted. 
